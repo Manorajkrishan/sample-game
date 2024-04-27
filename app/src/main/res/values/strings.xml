@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="logot">SkillSwap</string>
+    <string name="b1">Get started</string>
+    <string name="text1">SkillSwap</string>
+    <string name="b2">signup</string>
+    <string name="button14">signin</string>
+    <string name="signupmain">Let\'s improve Skills</string>
+    <string name="button3">submit</string>
+    <string name="textView9">Mr.Steve</string>
+    <string name="textView10">Miss.Depani</string>
+    <string name="textView16">Miss.Perera</string>
+    <string name="textView17">Mr.Kamal</string>
+
+
+</resources>
